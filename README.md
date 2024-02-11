@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Anju</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="jupiter" width="250" 
   src="https://usagif.com/wp-content/uploads/Jupiter.gif">
